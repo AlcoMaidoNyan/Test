@@ -1,0 +1,19 @@
+.error{
+    color:crimson;
+}
+#content{
+    margin-left:40%;
+    margin-top:20%;
+    position: relative;
+}
+#message{
+    position: absolute;
+    margin-top: 0%;
+}
+
+#under{
+    margin-left:60%;
+}
+#btn{
+    margin-left: 10%;
+}
